@@ -40,16 +40,18 @@ database will need to be devised so that hopefully current members do not need t
 
 ### Technologies
 * WordPress
+* PHP (for WP plugin)
+* PayPal APIs
 * HTML
 * CSS
-* Javascript
+* Javascript?
 * C# or Python ?
 
 
 
 ### What I'll Have to Learn
-The project will likely utilize WordPress as the current website is already using that.  
-PayPal API will be used to handle payment of membership dues and verify active membership.  
+The project will likely utilize WordPress as the current website is already using that, and I will probably have to write a new WP plugin.  I will need to learn some PHP in order to do that.
+PayPal APIs will be used to handle payment of membership dues and verify active membership.  
 Some Javascript, Python or C# may be required to execute features, but I have no idea yet.
 
 
