@@ -49,5 +49,10 @@ database will need to be devised so that hopefully current members do not need t
 
 ### What I'll Have to Learn
 The project will likely utilize WordPress as the current website is already using that.  
-PayPal API will be used to handle payment of membership dues and verify active membership. 
+PayPal API will be used to handle payment of membership dues and verify active membership.  
 Some Javascript, Python or C# may be required to execute features, but I have no idea yet.
+
+
+
+### Project Board
+**[STLGDC Member Directory](https://trello.com/b/NtOhIJnp/stlgdc-member-directory)**
