@@ -2,59 +2,42 @@
 
 
 ### Overview
-The **[Saint Louis Game Developer Co-op](http://stlgamedev.com/)** (STLGDC) is an non-profit organization that 
-provides support, resources, and events for game creators in St. Louis metro area. 
-The STLGDC already has and membership program but it is poorly executed, incomprehensive, 
-and does not offer a searchable directory or even a list of currently active members.
-
-This project aims to revise or replace the current membership signup process and 
-implement a more robust system that will provide a searchable member directory for use by 
-STLGDC community and board members for various purposes.
+I have been working as a pizza delivery driver for several years now, and I meticuously track my tipped earnings, wages, hours, et cetera in a spreadsheet.  I want a mobile app that I can utilize while working to track this data and search through it as well.  
+This is my minimum viable product.  I would like to eventually expand this idea to allow tracking of expenses for budgeting purposes, tasks to complete, personal notes, and creative projects.
 
 
 
 ### Features
-* **Member signup:** Users will be able to create accounts and pay their membership dues
-via PayPal.  Will include email validation and verify dues are paid with PayPal before adding 
-member to the database.
+* **User Account:** Users will be able to create an account to contain all of their information.
 
-* **Email confirmation:** A confirmation email will be sent with a link to confirm member 
-account. Once confirmed, another email will be sent with new member information and a link 
-to join the STLGDC Slack workspace.
+* **Email confirmation:** A confirmation email will be sent with a link to confirm account. 
 
-* **User login/profile:** Each user will have a profile page which they can edit/update while 
-logged into the site.  Users will be able to set their profile to either be viewable by the 
-public or available only to other members.
+* **User login/profile:** User information will only be accessible by signing into their account with the correct email and password.
 
-* **Active/Inactive Members:** Each profile will have an _'active'_ field which will be updated 
-when they pay their annual dues.  Will use PayPal API to verify payment.  Slack access will 
-also be updated using this system.
+* **Tip/Income Entry:** Each tip entry will contain fields for date/time of entry, order number, customer name, customer address, order total, tip amount, tip type (cash or credit).
 
-* **Search/Sort:** Users will be able to search the member directory for member profiles 
-matching their search criteria and sort the list by a desired profile field (ie. skills).
+* **Search/Sort:** Tip entries will be searchable by all fields so that the user can find past entries for a single customer by name or address.  Entries should also be sortable by category so users can browse through a chronological list of entries or view alphabetically by customer name.
 
-* **Pre-existing Members:** an automated system for adding current active members to the new 
-database will need to be devised so that hopefully current members do not need to sign up again.
+* **Daily Totals:** Users will be able to view daily totals in various categories: number of deliveries, total sales, total tips (cash and/or credit), and hours worked.  Average tip amounts and number of deliveries per hour will also be calculated and shown.
+
+* **Weekly/Monthly Break-downs:** Users will be able to view totals and averages by week, month. Yearly or custom date ranges may be available as well.
+
+* **Graphic Visualization of Data and Calendar:** Users will be able to view data in graphs or charts to easily find trends or patterns in business.  A calendar view would also be helpful for users to see entries by chronology.
 
 
 
 ### Technologies
-* WordPress
-* PHP (for WP plugin)
-* PayPal APIs
-* HTML
-* CSS
-* Javascript?
-* C# or Python ?
+* React Native ?
+* Flutter ?
+* Firebase ?
+* Javascript ?
 
 
 
 ### What I'll Have to Learn
-The project will likely utilize WordPress as the current website is already using that, and I will probably have to write a new WP plugin.  I will need to learn some PHP in order to do that.
-PayPal APIs will be used to handle payment of membership dues and verify active membership.  
-Some Javascript, Python or C# may be required to execute features, but I have no idea yet.
+To make a mobile app I will have to learn a new language (maybe two).  The technologies above were recommended to me by programmer friends.
 
 
 
 ### Project Board
-**[STLGDC Member Directory](https://trello.com/b/NtOhIJnp/stlgdc-member-directory)**
+**[Tip Tracker](https://trello.com/b/1pqI9t3K/life-tip-tracker)**
