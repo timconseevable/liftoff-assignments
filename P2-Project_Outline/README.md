@@ -8,11 +8,7 @@ This is my minimum viable product.  I would like to eventually expand this idea 
 
 
 ### Features
-* **User Account:** Users will be able to create an account to contain all of their information.
-
-* **Email confirmation:** A confirmation email will be sent with a link to confirm account. 
-
-* **User login/profile:** User information will only be accessible by signing into their account with the correct email and password.
+* **User Account:** Users will be able to create an account to contain all of their information. A confirmation email will be sent with a link to confirm account. User information will only be accessible by signing into their account with the correct email and password.
 
 * **Tip/Income Entry:** Each tip entry will contain fields for date/time of entry, order number, customer name, customer address, order total, tip amount, tip type (cash or credit).
 
