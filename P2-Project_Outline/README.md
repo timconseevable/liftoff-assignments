@@ -2,8 +2,8 @@
 
 
 ### Overview
-I have been working as a pizza delivery driver for several years now, and I meticuously track my tipped earnings, wages, hours, et cetera in a spreadsheet.  I want a mobile app that I can utilize while working to track this data and search through it as well.  
-This is my minimum viable product.  I would like to eventually expand this idea to allow tracking of expenses for budgeting purposes, tasks to complete, personal notes, and creative projects.
+I have been working as a pizza delivery driver for several years now, and I meticuously track my tipped earnings, wages, hours, et cetera in a spreadsheet.  I want a mobile app that I can utilize while working to track and search this data.
+Making a mobile app will be a bit more complicated and require learning some new languages.  So my minimum viable product will be to make a web version of this app.  Once finished, I will make the mobile version.  Eventually, I would like to expand this idea to allow tracking of expenses for budgeting purposes, tasks to complete, personal notes, and creative projects as well.
 
 
 
@@ -22,7 +22,14 @@ This is my minimum viable product.  I would like to eventually expand this idea 
 
 
 
-### Technologies
+### Web Technologies (MVP)
+* HTML
+* CSS
+* Bootstrap
+* C#
+* .NET / Entity Framework
+
+### Mobile Technologies
 * React Native ?
 * Flutter ?
 * Firebase ?
@@ -31,9 +38,10 @@ This is my minimum viable product.  I would like to eventually expand this idea 
 
 
 ### What I'll Have to Learn
+For the web version I will review LaunchCode Unit 3 assignments and should be pretty simple to get running.  I will focus on refining the site design and user experience to be responsive to any screen size so it is viewable on desktop and mobile screens.
 To make a mobile app I will have to learn a new language (maybe two).  The technologies above were recommended to me by programmer friends.
 
 
 
 ### Project Board
-**[Tip Tracker](https://trello.com/b/1pqI9t3K/life-tip-tracker)**
+**[Tip Tracker](https://trello.com/b/1pqI9t3K/tip-tracker)**

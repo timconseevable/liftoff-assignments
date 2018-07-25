@@ -8,11 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 
 ### Wireframes
-- [wireframe 1](link)
-- [wireframe 2](link)
-- [wireframe 3](link)
+- [wireframe](/tip-tracker-wireframe-01.png)
+- [color exploration](/tip-tracker-colors.png)
+- [-](/)
 
 
 
 ### Project Tracker
-**[Tip Tracker](https://trello.com/b/1pqI9t3K/life-tip-tracker)**
+**[Tip Tracker (Trello)](https://trello.com/b/1pqI9t3K/tip-tracker)**
+
+
+
+### Project Repo
+**[Tip Tracker (on GitHub)](https://github.com/timconseevable/Tip-Tracker-Web)**
