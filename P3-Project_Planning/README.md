@@ -8,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 
 ### Wireframes
-- [wireframe](/tip-tracker-wireframe-01.png)
-- [color exploration](/tip-tracker-colors.png)
+- [wireframe](/P3-Project_Planning/tip-tracker-wireframe-01.png)
+- [color exploration](/P3-Project_Planning/tip-tracker-colors.png)
 - [-](/)
 
 
