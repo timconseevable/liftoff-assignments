@@ -20,4 +20,4 @@ For this assignment, you'll create some initial plans for your project.
 
 
 ### Project Repo
-**[Tip Tracker (on GitHub)](https://github.com/timconseevable/Tip-Tracker-Web)**
+**[Tip Tracker (on GitHub)](https://github.com/timconseevable/TipTracker-web)**
